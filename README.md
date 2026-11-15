@@ -26,3 +26,12 @@ Table 2: devices on the network you ARE connected to, found via ping sweep,
          ARP, mDNS/Bonjour (with TXT model info), SSDP/UPnP, optional port
          scan, and an IEEE vendor (OUI) lookup.
 
+
+
+<img width="683" height="407" alt="Table1" src="https://github.com/user-attachments/assets/d8e56cd7-2462-4e52-923d-f8c5eceb7817" />
+
+<img width="1085" height="187" alt="Table2" src="https://github.com/user-attachments/assets/ae9d85c8-c828-4a05-ab80-0e5bbe24c4ec" />
+
+
+
+
