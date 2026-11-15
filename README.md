@@ -17,11 +17,11 @@ scanwifi.py
 ## Output contents
 
 wifiscan.py - Wi-Fi + LAN scanner for macOS.  Output columns:
-    NAME | MAC | IP | MDNS | OBSERVATIONS
+    NAME | MAC | IP | MDNS | OBSERVATIONS<br>
 
 Table 1: nearby access points (SSID, BSSID, channel, security, signal, vendor).
          IP/MDNS are only knowable for the network you are connected to
-         (its gateway); other rows show "-".
+         (its gateway); other rows show "-".<br>
 Table 2: devices on the network you ARE connected to, found via ping sweep,
          ARP, mDNS/Bonjour (with TXT model info), SSDP/UPnP, optional port
          scan, and an IEEE vendor (OUI) lookup.
